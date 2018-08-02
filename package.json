@@ -1,6 +1,6 @@
 {
   "name": "coininfo",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
   "keywords": [
@@ -39,6 +39,7 @@
     "unit": "tape test/**/*.js"
   },
   "dependencies": {
+    "chai": "^4.1.2",
     "safe-buffer": "^5.1.1"
   }
 }
